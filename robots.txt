@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ithiria894.github.io/sitemap.xml
