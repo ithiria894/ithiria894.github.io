@@ -29,6 +29,8 @@ A second forecast is still open: the highest price of the first 60 trading days 
 
 - [Kaggle dataset: Mega-IPOs 1996-2026, day one and first 60 days](https://www.kaggle.com/datasets/ithiria894/mega-ipos-1996-2026-day-one-first-60-days) (CC BY 4.0)
 - [Kaggle notebook that reruns the main results](https://www.kaggle.com/code/ithiria894/mega-ipos-who-makes-money-on-day-one)
+- [Same data on Hugging Face](https://huggingface.co/datasets/ithiria894/mega-ipos-1996-2026)
+- [Write-up on dev.to](https://dev.to/ithiria894/i-registered-a-forecast-for-anthropics-ipo-before-it-priced-day-one-closed-inside-the-range-3n8g)
 - [Discussion on r/Anthropic](https://www.reddit.com/r/Anthropic/comments/1xxhq8d/)
 
 ## Other things I made
