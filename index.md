@@ -17,6 +17,10 @@ The report also said "Don't chase it on day one." The first trade was $111.50, 3
 
 A second forecast is still open: the highest price of the first 60 trading days comes on or before trading day 10. It gets scored after trading day 60.
 
+## How did other forecasts do?
+
+Most analysts only said ANT would "pop". The only analyst I found who put a number on it before the $83 price was public was Renaissance Capital's Matthew Kennedy, who said $100 at the close (+20.5%). That was close. The markets were close too: ANT perps on Hyperliquid traded near $98, and Polymarket's favorite bracket was "up 10% to 20%". What I haven't found anywhere else is a range set against the final IPO price, registered before anyone knew that price. [Full list with quotes and links](https://github.com/ithiria894/anthropic-ipo-prediction-2026/tree/main/others_forecasts).
+
 ## Proof of the date
 
 - [OSF registration osf.io/pbkf5](https://osf.io/pbkf5/), registered 2026-11-16 12:14 UTC. An OSF registration can't be edited or deleted.
